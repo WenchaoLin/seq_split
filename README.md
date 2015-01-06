@@ -3,13 +3,11 @@ seq_split
 
        splits a sequence into equal sized chunks with an optional overlappings
 
-SYNOPSIS
-========
+## SYNOPSIS
 
        lwc_split_seq -c 10000 [-o 1000] -f seq.in
 
-DESCRIPTION
-===========
+## DESCRIPTION
 
        The script will split sequences into chunks
 
@@ -25,7 +23,6 @@ DESCRIPTION
          -o  Overlapping length between the resulting sequences.
 `
 
-AUTHORS
-=======
-         Wenchao Lin <lt>linwenchao@yeah.net <gt>
+## AUTHORS
+         Wenchao Lin <linwenchao@yeah.net> 
 
